@@ -10,7 +10,6 @@
 using namespace std;
 
 int minLength (int a[], int n, int target);
-
 int main()
 {
     int n, target;
